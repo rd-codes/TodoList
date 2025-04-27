@@ -1,6 +1,11 @@
 # TodoList MERN Application
+![Todo List](https://github.com/user-attachments/assets/186c94d4-ffda-4b1e-84bc-8e261d9ae0d9)
 
 A modern, feature-rich Todo List application built with the MERN stack (MongoDB, Express, React, Node.js).
+
+# Demo
+https://github.com/user-attachments/assets/8041d2f0-a322-4507-95b4-fdc70af694d4
+
 
 ## Features
 

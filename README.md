@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/8041d2f0-a322-4507-95b4-fdc70af694d4
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/TodoList.git
+   git clone https://github.com/rd-codes/TodoList.git
    cd TodoList
    ```
 
